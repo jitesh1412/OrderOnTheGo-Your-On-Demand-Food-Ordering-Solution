@@ -1,7 +1,7 @@
-# OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution
-# SB-FOODS 🍔
+# OrderOnTheGo 🍔
+### Your On-Demand Food Ordering Solution
 
-SB-FOODS is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to facilitate online food ordering and restaurant management. It features a robust role-based access system, a restaurant approval workflow, and a clean, modern user interface.
+OrderOnTheGo is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to facilitate online food ordering and restaurant management. It features a robust role-based access system, a restaurant approval workflow, and a clean, modern user interface.
 
 ## 🚀 Key Features
 
@@ -48,8 +48,8 @@ SB-FOODS is a full-stack MERN (MongoDB, Express, React, Node.js) application des
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/SB-FOODS.git
-cd SB-FOODS
+git clone https://github.com/your-username/OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution.git
+cd OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution
 ```
 
 ### 2. Backend Setup
@@ -93,7 +93,7 @@ The application will be available at `http://localhost:3000`.
 ## 📂 Project Structure
 
 ```text
-SB-FOODS/
+OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution/
 ├── client/              # React frontend
 │   ├── src/
 │   │   ├── components/  # Reusable UI components
@@ -106,3 +106,8 @@ SB-FOODS/
 │   └── index.js         # Entry point
 └── README.md            # You are here!
 ```
+
+---
+
+## 📜 License
+This project is licensed under the ISC License.

@@ -1,7 +1,7 @@
 # OrderOnTheGo 🍔
 
 ### 👨‍💻 Author
-Boppana Jitesh Ganga.
+# Boppana Jitesh Ganga.
 **GitHub**: https://github.com/jitesh1412.
 
 ### Your On-Demand Food Ordering Solution
@@ -11,7 +11,7 @@ OrderOnTheGo is a full-stack MERN (MongoDB, Express, React, Node.js) application
 
 ### 👤 For Customers
 - **User Authentication**: Secure register and login functionality.
-- - **Browse & Search**: Explore food items and restaurants with real-time search.
+- **Browse & Search**: Explore food items and restaurants with real-time search.
 - **Categorization & Filters**: Filter by Veg/Non-Veg preferences and categories.
 - **Smart Cart**: Single-restaurant enforcement to streamline orders.
 - **Detailed Checkout**: Collects precise delivery information (address, pincode, contact).

@@ -1,7 +1,7 @@
 # OrderOnTheGo 🍔
 
-### 👨‍💻 Author
-# Boppana Jitesh Ganga.
+## 👨‍💻 Author
+### Boppana Jitesh Ganga.
 **GitHub**: https://github.com/jitesh1412.
 
 ### Your On-Demand Food Ordering Solution

@@ -48,8 +48,8 @@ OrderOnTheGo is a full-stack MERN (MongoDB, Express, React, Node.js) application
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution.git
-cd OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution
+git clone https://github.com/your-username/OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution.git SB-FOODS
+cd SB-FOODS
 ```
 
 ### 2. Backend Setup
@@ -93,7 +93,7 @@ The application will be available at `http://localhost:3000`.
 ## 📂 Project Structure
 
 ```text
-OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution/
+SB-FOODS/
 ├── client/              # React frontend
 │   ├── src/
 │   │   ├── components/  # Reusable UI components
@@ -106,8 +106,3 @@ OrderOnTheGo-Your-On-Demand-Food-Ordering-Solution/
 │   └── index.js         # Entry point
 └── README.md            # You are here!
 ```
-
----
-
-## 📜 License
-This project is licensed under the ISC License.
